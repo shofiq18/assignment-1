@@ -32,11 +32,10 @@
     color: #0D1321;
 
 }
+
 .bannar{
     background-image: url("../images/Hero-bg.png");
     margin-top: 36px;
-    
-   
     width: 100%;
     padding: 26px 0 45px 0;
 }
@@ -48,6 +47,8 @@
 }
 .bannar-title{
     margin-top: 32px;
+    font-size: 48px;
+    font-weight: 900px;
 }
 .contact-btn{
     font-size: 20px;
@@ -62,4 +63,61 @@
 .bannar-description{
     color: #0D1321;
     margin-top: 24px;
+ } 
+ /* header section end */
+
+ /* Main section start  */
+
+ /* web development section start  */
+
+ main{
+    max-width: 1140px;
+    margin: 0 auto;
+ }
+ .web-development{
+    text-align: center;
+     margin-top: 74px; 
+    background-color: #efeff0;
+    padding-top: 80px;
+ }
+ 
+
+   
+ 
+ .web-style{
+    font-size: 32px;
+    font-weight: 900px;                     
+    color: #0D1321;
+    
+ }
+ .web-description{
+    font-size: 16px;
+    font-weight: 400px;
+    margin-top: 24px;
+    padding: 0 48px;
+    
+ }
+.web-parent{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 98px;
+   padding: 48px 48px;
+
 }
+.web-child{
+   text-align: left;
+}
+.div-title{
+   margin-bottom: 24px;
+}
+.div-description{
+   margin-bottom: 48px;
+}
+button{
+   padding: 12px 20px;
+}
+
+ 
+ 
+ 
