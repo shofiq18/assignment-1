@@ -169,5 +169,72 @@ button:hover{
  }
 /* inspiration section end */
 
- 
+/* start my current Target */
+
+.target-title-description h3{
+   font-size: 32px;
+   font-weight: 900px;
+   margin-bottom: 24px;
+   margin-top: 90px;
+}
+.target-title-description p{
+   font-size: 16px;
+   font-weight: 400px;
+   color: #0D1321;
+   text-shadow: 0px 4px 4px 0px;
+}
+.target-title-description{
+   padding-left: 144px;
+   padding-right: 144px;
+}
+.current-target{
+   text-align: center;
+}
+
+
+ .target-parent{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-top: 48px;
+   gap: 24px;
+   padding: 40px 40px;
+   text-align: left;
+
+ }
+ .target-child{
+   padding: 40px;
+ }
+ .html-bg-color{
+   background-color:rgba(255, 76, 30, 0.05);
+ }
+ .css-bg-color{
+   background-color: rgba(0, 76, 232, 0.05);
+
+ }
+ .javascript-bg-color{
+   background-color: rgba(255, 223, 0, 0.05);
+
+ }
+ .target-style{
+   font-size:24px;
+   font-weight: 800px;
+
+ }
+ .target-description{
+   font-size: 16px;
+   font-weight: 400px;
+   color: #0D1321;
+   text-shadow: 0px 4px 4px 0px;
+ }
+ .more{
+   font-size: 16px;
+   font-weight: bold;
+   color: #0D1321;
+   text-shadow: 0px 4px 4px 0px;
+   
+
+ }
+
+  
  
